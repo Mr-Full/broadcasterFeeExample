@@ -9,6 +9,22 @@ I hope this demo clears things up while keeping it light and easy to follow!
 
 ---
 
+### Getting Started
+
+To run the demo locally:
+
+1. **Install Dependencies**  
+   Run the following command to install all necessary dependencies:
+   ```bash
+   yarn install
+
+2. **Start the Demo**
+Once the dependencies are installed, start the app with:
+'''bash
+yarn start
+
+---
+
 ### Key Highlights  
 
 1. **Ready to Go for Testing**  
