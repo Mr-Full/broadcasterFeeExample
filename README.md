@@ -20,9 +20,9 @@ To run the demo locally:
 
 2. **Start the Demo**
 Once the dependencies are installed, start the app with:
-'''bash
+```
 yarn start
-
+```
 ---
 
 ### Key Highlights  
@@ -36,7 +36,14 @@ yarn start
    - As my very first reproducible example, I've kept things minimal while including all the necessary details  
 
 ---
+### Example of my 112 Gwei Unshield (Gwei was fetched dynamically):
+https://polygonscan.com/tx/0x350041a4700413d3bf3d36e11e7f4e4a2c13a3f832d375201d9289a1d76af385
 
+Estimated Braodcaster Fee said: 0.162 WPOL
+
+Reality: 1.041 WPOL was reducted from my railgun wallet in fees
+
+---
 ### Acknowledgment 
 
 Huge Thank you! for your continued generosity and assistance 🙌.  
